@@ -9,7 +9,7 @@ public class remoteURL {
 	
 	public static void main (String args[]) throws IOException {
 		
-		String url =" http http://localhost:8080/job/simple/build?token=1234";
+		String url =" http http://Qasim:Qassom2001@localhost:8080/job/simple/build?token=1234";
 		URL obj= new URL(url);
 		
 		HttpURLConnection con = (HttpURLConnection) obj.openConnection();
