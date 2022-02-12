@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class SIMPLE_OUT {
+public class OUT {
 	
 	public static void main(String ARGS[]) {
 		
