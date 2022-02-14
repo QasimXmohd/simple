@@ -9,7 +9,8 @@ public class SIMPLE {
 			z = x + y;
 
 			bw.write("hello world this is Qasim \n jenkins github connection fine \n we are in year 2022 \n adition of x and y is " + z);
-			bw.write("\n gitbub triggered hey this is chnage ");
+			bw.write("\n gitbub triggered hey this is chnage  ");
+			bw.write("\n change two ");
 			bw.close();
 		} catch (Exception ex) {
 			return;
